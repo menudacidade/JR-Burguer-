@@ -61,7 +61,7 @@ const DRINKS = [
 ====================================================== */
 const BANNER_IMAGE    = "banner cardápio.png";
 const PROFILE_IMAGE   = "logojrburguer.jpeg";
-const WHATSAPP_NUMBER = "5542999067042";
+const WHATSAPP_NUMBER = "5542998462451";
 
 /* ======================================================
    ESTADO GLOBAL
